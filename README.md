@@ -36,7 +36,7 @@ To get started with MiniGPT, please follow these instructions:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/SKD01HASH/MINIGPTBYSASWATAKKUMARDASH.git
+   git clone https://github.com/SKD01HASH/MINIGPTBYSASWATAKUMARDASH.git
    ```
 
 2. Install the required dependencies:

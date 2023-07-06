@@ -3,7 +3,8 @@
 
 
 This is an Ai neural network model of MINIGPT made by me.
-## Link to pickel model:- https://drive.google.com/file/d/1zbOr3SKyIWh9pEhZiXFyrJFQicswsWno/view?usp=share_link
+### Link to pickel model:- https://drive.google.com/file/d/1zbOr3SKyIWh9pEhZiXFyrJFQicswsWno/view?usp=share_link
+### Link to see the glimpses of the project:- https://drive.google.com/file/d/154jwSNOvwD4AuWWskawfkJmp046Y0oas/view?usp=sharing
 
 Welcome to the MiniGPT repository! This project showcases my implementation of a powerful AI model based on the principles of GPT (Generative Pre-trained Transformer). By leveraging the capabilities of neural networks and deep learning, MiniGPT demonstrates the potential of natural language generation and understanding.
 

@@ -1,16 +1,16 @@
-# MINIGPT BY SASWATA KUMAR DASH
+# BIGRAMGPT BY SASWATA KUMAR DASH
 ![mini-gpt-4-lightweight-alternative-for-better-language-understanding](https://github.com/SKD01HASH/MINIGPTBYSASWATAKUMARDASH/assets/94286342/649de60b-36b0-4fc3-b572-707f4415f098)
 
 
-This is an Ai neural network model of MINIGPT made by me.
+This is an Ai neural network model of BIGRAMGPT made by me.
 ### Link to pickel model:- https://drive.google.com/file/d/1zbOr3SKyIWh9pEhZiXFyrJFQicswsWno/view?usp=share_link
 ### Link to see the glimpses of the project:- https://drive.google.com/file/d/154jwSNOvwD4AuWWskawfkJmp046Y0oas/view?usp=sharing
 
-Welcome to the MiniGPT repository! This project showcases my implementation of a powerful AI model based on the principles of GPT (Generative Pre-trained Transformer). By leveraging the capabilities of neural networks and deep learning, MiniGPT demonstrates the potential of natural language generation and understanding.
+Welcome to the BigramGPT repository! This project showcases my implementation of a powerful AI model based on the principles of GPT (Generative Pre-trained Transformer). By leveraging the capabilities of neural networks and deep learning, MiniGPT demonstrates the potential of natural language generation and understanding.
 
 ## Table of Contents
 
-- [About MiniGPT](#about-minigpt)
+- [About BigramGpt](#about-BigramGpt)
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -18,9 +18,9 @@ Welcome to the MiniGPT repository! This project showcases my implementation of a
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
-## About MiniGPT
+## About BigramGpt
 
-MiniGPT is a project inspired by the remarkable work of Dr. Andrej Karpathy, whose insightful YouTube video[https://youtu.be/kCc8FmEb1nY] served as a guiding light in my journey. This implementation builds upon the foundation established in the video and introduces several enhancements that make it unique.
+BigramGpt is a project inspired by the remarkable work of Dr. Andrej Karpathy, whose insightful YouTube video[https://youtu.be/kCc8FmEb1nY] served as a guiding light in my journey. This implementation builds upon the foundation established in the video and introduces several enhancements that make it unique.
 
 With the integration of an external bigram language model, MiniGPT offers enhanced performance and efficiency. Additionally, I have developed my very own GPT model from scratch, taking it a step further than the tutorial. These modifications set this implementation apart and demonstrate my creativity and understanding of the underlying concepts.
 
@@ -33,7 +33,7 @@ With the integration of an external bigram language model, MiniGPT offers enhanc
 
 ## Getting Started
 
-To get started with MiniGPT, please follow these instructions:
+To get started with MiniGPT(BigramGpt), please follow these instructions:
 
 1. Clone the repository:
    ```
